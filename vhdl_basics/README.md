@@ -29,8 +29,9 @@ By going through the files in this folder, you will learn how to:
 
 ## File Descriptions
 
-| File                | Description                                                  |
-|---------------------|--------------------------------------------------------------|
+| File                | Description                                                    |
+|---------------------|--------------------------------------------------------------  |
 | `bool_type.vhd`     | Demonstrates the use of `boolean`, `bit`, and logic operators. |
-| `literal_assign.vhd`| Shows how to assign values to signals using literals.         |
-| `vector_comp.vhd`   | Compares and manipulates bit vectors.                         |
+| `literal_assign.vhd`| Shows how to assign values to signals using literals.          |
+| `vector_comp.vhd`   | Compares and manipulates bit vectors.                          |
+| `if_example.vhd`    | Uses process to enable sequential logic.                       |
