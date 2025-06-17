@@ -14,7 +14,7 @@
 
 ### Learning objectives
 
-####By going through the files in this folder, you will learn how to:
+#### By going through the files in this folder, you will learn how to:
 
 * Define and use boolean data types
 
