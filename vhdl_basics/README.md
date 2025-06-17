@@ -1,25 +1,36 @@
 # VHDL Basics
-#### This folder contains basic VHDL examples and exercises for learning fundamental concepts in digital design using VHDL.
 
-### Overview
-#### This repository is designed to help you understand the following VHDL concepts:
+Welcome! This folder contains basic VHDL examples and exercises for learning fundamental concepts in digital design using VHDL.
 
-* Boolean types and logic
+---
 
-* Literal assignments
+## Overview
 
-* Vector operations and comparisons
+This repository is designed to help you understand the following VHDL concepts:
 
-#### Each .vhd file demonstrates a specific concept with simple, easy-to-read code.
+- Boolean types and logic
+- Literal assignments
+- Vector operations and comparisons
 
-### Learning objectives
+Each `.vhd` file demonstrates a specific concept with simple, easy-to-read code.
 
-#### By going through the files in this folder, you will learn how to:
+---
 
-* Define and use boolean data types
+## Learning Objectives
 
-* Perform literal assignments in VHDL
+By going through the files in this folder, you will learn how to:
 
-* Create and manipulate bit vectors
+- Define and use boolean data types
+- Perform literal assignments in VHDL
+- Create and manipulate bit vectors
+- Compare vectors using logical operations
 
-* Compare vectors using logical operations
+---
+
+## File Descriptions
+
+| File                | Description                                                  |
+|---------------------|--------------------------------------------------------------|
+| `bool_type.vhd`     | Demonstrates the use of `boolean`, `bit`, and logic operators. |
+| `literal_assign.vhd`| Shows how to assign values to signals using literals.         |
+| `vector_comp.vhd`   | Compares and manipulates bit vectors.                         |
