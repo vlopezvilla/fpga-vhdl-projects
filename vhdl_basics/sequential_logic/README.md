@@ -18,3 +18,7 @@ Recall that the sequential logic must be contained within a `process` statement
 
 #### For Statements
 - Execute a block of code that can be iterated N times, specified range
+##### For loop syntax:
+ for `identifier` in discrete_range loop
+   'sequential statement`
+end loop `loop label`
